@@ -1,0 +1,41 @@
+WEB(h1)
+---------------------------------------
+Web je mreža međusobno povezanih računara.Mi kada pomoću brovsera(firefox(link), chrome(link), edge itd.)odemo na web vidimo da se on sastoji od mnoštva web(umreženih) stranica i aplikacija.
+
+Te stranice i aplikacije se bar u brovseru pišu pomoću tri jezika:
+1) HTML (Slika loga HTML-a)
+2) CSS  (Slika loga CSS-a)
+3) JavaScript  (Slika loga JavaScripta) 
+
+HTML(h2)
+
+HTML je kratica za (Strong)H-yper T-ext M-arkup L-anguage, što znači prezentacijski jezik za izradu web stranica. 
+
+Služi nam da kreiramo strukturu stranice:
+- Naslove
+- Paragrafe
+- Linkove
+- Liste
+- Tabele
+- Slike
+- Videosadržaje
+- Forme 
+Forme su kako ćemo vidjeti elementi u koje korisnik može da ubaci sadržaj koji se kasnije premješta u bazu podataka.
+One izgledaju ovako:   (slika forma)
+
+CSS
+
+Skraćenica od Cascading Style Sheets je jezik kojim uljepšavamo sve te sadržaje koje smo unjeli na sajt (skup dvije ili više web stranica) pomoću HTML-a. 
+
+Pomoću CSS određujemo koje će boje biti element, koliki će biti font, hoće li tekst biti podvučen, gdje će na stranici stajati pojedini elementi i kolike će biti veličine i još mnogo toga.
+
+
+JavaScript
+
+Jedan od najpopularniji programski jezika koji služi za programiranje weba ne samo u brovseru nego i na serveru. Pomoću Javascripta se može programirati gotovo sve. Mobilne aplikacije (React native), desktop aplikacije (Electron), igre itd 
+
+Koristi se zajedno sa Pajtonom pri strojnom učenju tj pri programiranju vještačke inteligencije(emphasis).
+
+više o tome možete naći na MDN(link)
+
+Napomena: Oblikovana stranica sa ovim tekstom data je na slici. Vaš zadatak je da ovu stranicu oblikujete.Urađen zadatak je dat u folderu web.html.
